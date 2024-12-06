@@ -37,7 +37,7 @@ export default function Home() {
         <div className="w-full max-w-sm space-y-6">
           <div className="space-y-2 text-center">
             <h1 className="text-2xl font-semibold tracking-tight text-white">
-              Create an account
+              Create a user account
             </h1>
             <p className="text-sm text-gray-400">
               Enter your email below to create your account
